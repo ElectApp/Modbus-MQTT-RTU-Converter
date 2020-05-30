@@ -10,7 +10,7 @@ This firmware uses for ESP8266 Wi-Fi Module such as NodeMCU board.
 
 How to use firmware
 -----------
-1. [Download .bin file] to your computer.
+1. [Download .bin file](https://github.com/ElectApp/Modbus-MQTT-RTU-Converter/raw/master/Modbus_MQTT_To_RTU_Converter_V1/Modbus_MQTT_To_RTU_Converter_V1.ino.nodemcu.bin) to your computer.
 2. Download firmware to ESP8266 Wi-Fi module by [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher)
 3. Connect module to Modbus RTU device via serial port with TTL.
 4. Power ON the module and connect Wi-Fi from ESP8266 Wi-Fi module such as MB_MQTT_XXXX.
